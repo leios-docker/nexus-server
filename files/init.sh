@@ -7,4 +7,4 @@ then
 fi
 
 
-/nexus-2.12.0-01/bin/jsw/linux-x86-64/wrapper /nexus-2.12.0-01/bin/jsw/conf/wrapper.conf wrapper.syslog.ident=nexus wrapper.pidfile=/nexus-2.12.0-01/bin/jsw/linux-x86-64/nexus.pid wrapper.daemonize=FALSE
+/nexus/bin/jsw/linux-x86-64/wrapper /nexus/bin/jsw/conf/wrapper.conf wrapper.syslog.ident=nexus wrapper.pidfile=/nexus/bin/jsw/linux-x86-64/nexus.pid wrapper.daemonize=FALSE
